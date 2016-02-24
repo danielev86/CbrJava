@@ -109,7 +109,7 @@ public class NMaterialJFInputData extends JFrame {
 		lblRequiredInput.setBounds(10, 154, 170, 14);
 		contentPane.add(lblRequiredInput);
 		
-		JLabel lblSurfaceVelocity = new JLabel("Surface velocity (nm/s)");
+		JLabel lblSurfaceVelocity = new JLabel("Surface approach velocity (nm/s)");
 		lblSurfaceVelocity.setBounds(10, 192, 170, 14);
 		contentPane.add(lblSurfaceVelocity);
 		
@@ -129,11 +129,11 @@ public class NMaterialJFInputData extends JFrame {
 		lblFrequencyTarget.setBounds(10, 292, 170, 14);
 		contentPane.add(lblFrequencyTarget);
 		
-		JLabel lblSurfaceDistance = new JLabel("Surface distance (nm)");
+		JLabel lblSurfaceDistance = new JLabel("Surface approach distance (nm)");
 		lblSurfaceDistance.setBounds(10, 318, 170, 14);
 		contentPane.add(lblSurfaceDistance);
 		
-		JLabel lblPoissonsRate = new JLabel("Poissons rate");
+		JLabel lblPoissonsRate = new JLabel("Poisson's ratio");
 		lblPoissonsRate.setBounds(10, 342, 170, 14);
 		contentPane.add(lblPoissonsRate);
 		

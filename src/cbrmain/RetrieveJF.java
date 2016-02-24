@@ -180,7 +180,7 @@ public class RetrieveJF extends JFrame {
 		lblRequiredInput.setBounds(10, 97, 149, 14);
 		contentPane.add(lblRequiredInput);
 		
-		JLabel lblSurfaceVelocity = new JLabel("Surface velocity (nm/s)");
+		JLabel lblSurfaceVelocity = new JLabel("Surface approach velocity (nm/s)");
 		lblSurfaceVelocity.setBounds(10, 122, 176, 14);
 		contentPane.add(lblSurfaceVelocity);
 		
@@ -200,11 +200,11 @@ public class RetrieveJF extends JFrame {
 		lblFrequencyTarget.setBounds(10, 222, 176, 14);
 		contentPane.add(lblFrequencyTarget);
 		
-		JLabel lblSurfaceDistance = new JLabel("Surface distance (nm)");
+		JLabel lblSurfaceDistance = new JLabel("Surface approach distance (nm)");
 		lblSurfaceDistance.setBounds(10, 247, 176, 14);
 		contentPane.add(lblSurfaceDistance);
 		
-		JLabel lblPoissonsRatio = new JLabel("Poissons ratio");
+		JLabel lblPoissonsRatio = new JLabel("Poisson's ratio");
 		lblPoissonsRatio.setBounds(10, 272, 176, 14);
 		contentPane.add(lblPoissonsRatio);
 		
@@ -463,7 +463,7 @@ public class RetrieveJF extends JFrame {
 		lblRequiredInput.setBounds(10, 161, 149, 14);
 		contentPane.add(lblRequiredInput);
 		
-		JLabel lblSurfaceVelocity = new JLabel("Surface velocity (nm/s)");
+		JLabel lblSurfaceVelocity = new JLabel("Surface approach velocity (nm/s)");
 		lblSurfaceVelocity.setBounds(10, 186, 176, 14);
 		contentPane.add(lblSurfaceVelocity);
 		
@@ -483,11 +483,11 @@ public class RetrieveJF extends JFrame {
 		lblFrequencyTarget.setBounds(10, 286, 176, 14);
 		contentPane.add(lblFrequencyTarget);
 		
-		JLabel lblSurfaceDistance = new JLabel("Surface distance (nm)");
+		JLabel lblSurfaceDistance = new JLabel("Surface approach distance (nm)");
 		lblSurfaceDistance.setBounds(10, 311, 176, 14);
 		contentPane.add(lblSurfaceDistance);
 		
-		JLabel lblPoissonsRatio = new JLabel("Poissons ratio");
+		JLabel lblPoissonsRatio = new JLabel("Poisson's ratio");
 		lblPoissonsRatio.setBounds(10, 336, 176, 14);
 		contentPane.add(lblPoissonsRatio);
 		

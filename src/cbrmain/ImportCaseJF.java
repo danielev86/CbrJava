@@ -127,7 +127,7 @@ public class ImportCaseJF extends JFrame {
 		lblRequiredInput.setBounds(10, 190, 156, 14);
 		contentPane.add(lblRequiredInput);
 		
-		JLabel lblSurfaceVelocity = new JLabel("Surface velocity (nm/s)");
+		JLabel lblSurfaceVelocity = new JLabel("Surface approach velocity (nm/s)");
 		lblSurfaceVelocity.setBounds(10, 215, 156, 14);
 		contentPane.add(lblSurfaceVelocity);
 		
@@ -147,11 +147,11 @@ public class ImportCaseJF extends JFrame {
 		lblFrequencyTarget.setBounds(10, 315, 156, 14);
 		contentPane.add(lblFrequencyTarget);
 		
-		JLabel lblSurfaceDistancel = new JLabel("Surface distance (nm)");
+		JLabel lblSurfaceDistancel = new JLabel("Surface approach distance (nm)");
 		lblSurfaceDistancel.setBounds(10, 340, 156, 14);
 		contentPane.add(lblSurfaceDistancel);
 		
-		JLabel lblPoissonsRate = new JLabel("Poissons rate");
+		JLabel lblPoissonsRate = new JLabel("Poisson's rate");
 		lblPoissonsRate.setBounds(10, 365, 156, 14);
 		contentPane.add(lblPoissonsRate);
 		

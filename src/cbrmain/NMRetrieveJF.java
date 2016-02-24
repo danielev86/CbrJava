@@ -188,7 +188,7 @@ public class NMRetrieveJF extends JFrame {
 		lblRequiredInput.setBounds(10, 185, 186, 14);
 		contentPane.add(lblRequiredInput);
 		
-		JLabel lblSurfaceVelocitynms = new JLabel("Surface velocity (nm/s)");
+		JLabel lblSurfaceVelocitynms = new JLabel("Surface approach velocity (nm/s)");
 		lblSurfaceVelocitynms.setBounds(10, 221, 186, 14);
 		contentPane.add(lblSurfaceVelocitynms);
 		
@@ -208,11 +208,11 @@ public class NMRetrieveJF extends JFrame {
 		lblFrequencyTargethz.setBounds(10, 321, 186, 14);
 		contentPane.add(lblFrequencyTargethz);
 		
-		JLabel lblSurfaceDistancenm = new JLabel("Surface distance (nm)");
+		JLabel lblSurfaceDistancenm = new JLabel("Surface approach distance (nm)");
 		lblSurfaceDistancenm.setBounds(10, 346, 186, 14);
 		contentPane.add(lblSurfaceDistancenm);
 		
-		JLabel lblPoissonsRate = new JLabel("Poissons rate");
+		JLabel lblPoissonsRate = new JLabel("Poisson's ratio");
 		lblPoissonsRate.setBounds(10, 371, 186, 14);
 		contentPane.add(lblPoissonsRate);
 		

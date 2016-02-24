@@ -176,7 +176,7 @@ public class RetrieveSampleJF extends JFrame {
 		lblRequiredInput.setBounds(10, 152, 149, 14);
 		contentPane.add(lblRequiredInput);
 		
-		JLabel lblSurfaceVelocity = new JLabel("Surface velocity (nm/s)");
+		JLabel lblSurfaceVelocity = new JLabel("Surface approach velocity (nm/s)");
 		lblSurfaceVelocity.setBounds(10, 177, 176, 14);
 		contentPane.add(lblSurfaceVelocity);
 		
@@ -196,11 +196,11 @@ public class RetrieveSampleJF extends JFrame {
 		lblFrequencyTarget.setBounds(10, 277, 176, 14);
 		contentPane.add(lblFrequencyTarget);
 		
-		JLabel lblSurfaceDistance = new JLabel("Surface distance (nm)");
+		JLabel lblSurfaceDistance = new JLabel("Surface approach distance (nm)");
 		lblSurfaceDistance.setBounds(10, 302, 176, 14);
 		contentPane.add(lblSurfaceDistance);
 		
-		JLabel lblPoissonsRatio = new JLabel("Poissons ratio");
+		JLabel lblPoissonsRatio = new JLabel("Poisson's ratio");
 		lblPoissonsRatio.setBounds(10, 327, 176, 14);
 		contentPane.add(lblPoissonsRatio);
 		
